@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom 
+application_default_credentials.json
+.env
+*local_run.json
