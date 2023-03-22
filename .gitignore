@@ -133,3 +133,4 @@ dmypy.json
 application_default_credentials.json
 .env
 *local_run.json
+*local_run.yaml
